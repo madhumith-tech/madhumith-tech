@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhumithra</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=madhumith-tech&label=Profile%20views&color=0e75b6&style=flat" alt="madhumith-tech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhumith-tech" alt="madhumith-tech" /></a> </p>
 
@@ -9,7 +8,8 @@
 
 - 💬 Ask me about **,HTML, CSS, JavaScript,Public speaking & tech events 🎤**
 
-- 📫 How to reach me **📧 Email:madhumithrathangaraj@gmail.com, 💼linkedin:https://www.linkedin.com/in/madhumithra-thangaraj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+- 📫 How to reach me
+-       📧 Email:madhumithrathangaraj@gmail.com
 
 - ⚡ Fun fact **😄 I think I’m funny and I love hosting events & exploring new things !**
 
